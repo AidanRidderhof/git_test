@@ -1,3 +1,3 @@
 # git_test
-“Hello Odin!”
-"Some more text changes"
+Hello Odin!
+Some more text changes
